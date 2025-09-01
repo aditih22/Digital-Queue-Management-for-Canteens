@@ -70,11 +70,11 @@ See [`research/competitive-analysis.md`](research/competitive-analysis.md)
 
 1. **Information Architecture** → See [`design/sitemap.png`](design/sitemap.png)  
 2. **User Flows** → See [`design/userflow.png`](design/userflow.png)  
-3. **Wireframes** → [`design/wireframes/`](design/wireframes/)  
-4. **High-Fidelity Mockups** → [`design/mockups/`](design/mockups/)  
-5. **Prototype (Figma)** → [Click Here](https://figma.com/your-prototype-link)  
 
----
+3. **Prototype (Figma)** → [Click Here](https://figma.com/your-prototype-link)  
+
+<img width="1536" height="1024" alt="proj2" src="https://github.com/user-attachments/assets/7c452045-5255-4efa-b400-82f41cbddde8" />
+
 
 ## ✅ Outcomes & Learnings  
 
@@ -82,6 +82,9 @@ See [`research/competitive-analysis.md`](research/competitive-analysis.md)
 - Improved **canteen staff efficiency**  
 - Group ordering feature → improved social meal experience  
 - Learned to balance **business needs (speed)** with **user needs (clarity & ease of use)**  
+
+
+<img width="1307" height="648" alt="image" src="https://github.com/user-attachments/assets/804ed4e6-e87c-4db4-bc5e-41136d94dd69" />
 
 See [`outcomes/key-takeaways.md`](outcomes/key-takeaways.md)  
 
